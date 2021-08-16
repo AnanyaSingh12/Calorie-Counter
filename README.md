@@ -1,6 +1,7 @@
 # Calorie-Counter
 
 1.) created virtual enviornment using command
+pip install virtualenv
 mkvirtualenv myvenv
 
 2.)install requiremnets.txt file
