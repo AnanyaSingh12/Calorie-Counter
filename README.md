@@ -30,4 +30,4 @@ enter username and password
 
 python manage.py runserver
 
-Github Link is as follows: 
+Github Link is as follows: https://github.com/AnanyaSingh12/Calorie-Counter
