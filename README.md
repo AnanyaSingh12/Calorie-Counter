@@ -1,32 +1,35 @@
 # Calorie-Counter
 
-1.) Install the virtual enviornment
+1.) Download master file as zip
 
+2.) Install the virtual enviornment
 
 pip install virtualenv
 
-2.) Create a virtual enviornment
+
+3.) Create a virtual enviornment
 
 python -m venv myenv
 
 
-3.) Install requiremnets.txt file
+4.) Install requiremnets.txt file
 
 pip install -r requirements.txt
  
  
-4.) Activate virtual enviornment using command
+5.) Activate virtual enviornment using command
 
 myvenv\Scripts\activate
 
 
-4.) Create admin/superuser
+6.) Create admin/superuser
 
 python manage.py createsuperuser
 
-enter username and password
+enter username and password for admin panel
 
-5.) Run project
+
+7.) Run project
 
 python manage.py runserver
 
